@@ -12,3 +12,6 @@ jupyter notebook --notebook-dir='D:\Profession'
 
 
 new functional File in reactnative press--> rnfe or rnfes
+
+starting with your custom jupyter  server-->> activate tf
+jupyter notebook --notebook-dir='D:\Profession'
